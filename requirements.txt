@@ -2,3 +2,5 @@ kafka-python
 pandas
 numpy
 notebook
+s3fs
+boto3
