@@ -770,10 +770,4 @@ This project is part of a data streaming learning exercise.
 
 Feel free to fork this project and submit pull requests for improvements.
 
-## 📞 Support
-
-For issues or questions, please refer to the [Apache Kafka Documentation](https://kafka.apache.org/documentation/) or create an issue in the repository.
-
----
-
 **Last Updated:** November 2025
